@@ -1,0 +1,165 @@
+body
+{
+    background-color: black;
+}
+.pi
+{
+    font-size: 100px;
+    color:red;  
+    background-image: linear-gradient(orange,white,green);
+}
+.mo
+{
+    background-color:white;
+    padding: 25px;
+    margin-right: -9%;
+    height: 40vh;
+    position: relative;
+      width: 4%;
+}
+
+.m1
+{
+    background-color:white;
+    padding: 25px;
+    margin-left: 10%;
+    height: 40vh;
+    position: relative;
+      width: 4%;
+}
+.m2
+{
+    background-color:white;
+    padding: 15px;
+    margin-left: 1%;
+    height: 40vh;
+    width: 4%;
+}
+.m3
+{
+    background-color:white;
+    padding: 15px;
+    margin-left: 1%;
+    height: 40vh;
+    width: 4%;
+}
+.m4
+{
+    background-color:white;
+    padding: 15px;
+    margin-left: 1%;
+    height: 40vh;
+    width: 4%;
+}
+.m5
+{
+    background-color:white;
+    padding: 15px;
+    margin-left: 1%;
+    height: 40vh;
+    width: 4%;
+}
+.m6
+{
+    background-color:white;
+    padding: 15px;
+    margin-left: 1%;
+    height: 40vh;
+    width: 4%;
+}
+.m7
+{
+    background-color:white;
+    padding: 15px;
+    margin-left: 1%;
+    height: 40vh;
+    width: 4%;
+}
+.m8
+{
+    background-color:white;
+    padding: 15px;
+    margin-left: 1%;
+    height: 40vh;
+    width: 4%;
+}
+.m9
+{
+    background-color:white;
+    padding: 15px;
+    margin-left: 1%;
+    height: 40vh;
+    width: 4%;
+}
+.b1
+{
+    background-color:black;
+    margin: 10px;
+    margin-left:-90vh;
+    height: 30vh;
+    padding-top: 5%;
+    width: 3%;
+    position: fixed;
+    padding-top: 12%;
+    color: white;
+}
+.b2
+{
+    background-color:black;
+    margin: 10px;
+    margin-left: -80vh;
+    position: fixed;
+    height: 30vh;
+    padding-top: 12%;
+    width: 3%;
+    color: white;
+}
+.b3
+{
+    background-color:black;
+    margin: 10px;
+    margin-left :-69vh;
+    position: fixed;
+    height: 30vh;
+    padding-top: 12%;
+    width: 3%;
+    color: white;
+}
+.b4
+{
+    background-color:black;
+    margin: 10px;
+    margin-left:-58vh ;
+    position: fixed;
+    height: 30vh;
+    padding-top: 12%;
+    width: 3%;
+    color: white;
+}
+
+.b5
+{
+    background-color:black;
+    margin: 10px;
+    margin-left:-47vh ;
+    height: 30vh;
+    position: fixed;
+    padding-top: 12%;
+    width: 3%;
+    color: white;
+}
+.b6
+{
+    background-color:black;
+    margin: 10px;
+    margin-left:-35vh ;
+    height: 30vh;
+    padding-top: 5%;
+    width: 3%;
+    color: white;
+}
+.fo
+{
+    float: right;
+    padding-top: 20px;
+}
